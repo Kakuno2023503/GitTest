@@ -4,3 +4,5 @@ Gitについて勉強する。
 
 kakuno
 2024/06/19 14:44
+
+local_kakuno
